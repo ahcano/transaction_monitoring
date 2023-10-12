@@ -6,11 +6,12 @@ This project applies SQL to analyze historic credit card transactions and consum
 ![credit_card_fraudster](https://github.com/ahcano/transaction_monitoring/assets/141194281/67f2f5ef-2180-473f-83b7-950df9937994)
 
 ## Analysis
-### The following line plot shows the transaction patterns of a user identified as "User ID 2". Irregular transaction spikes can be observed, which is worth investigating further for possible fraudulent activity.
+### The following line plot shows the transaction patterns of a user identified as "User ID 2". 
 ![User 2 transactions ](https://github.com/ahcano/transaction_monitoring/assets/141194281/e68bd715-c649-4036-a834-e0fe0e1f3bf7)
 
 
-### The following line plot shows the transaction patterns of "User ID 18" and both users combined. 
+### The following line plot shows the transaction patterns of "User ID 18" Irregular transaction spikes can be observed, which is worth investigating further for possible fraudulent activity.
+### The graph of combined user transactions is also depicted below.
 ![User 18 transactions and Combined](https://github.com/ahcano/transaction_monitoring/assets/141194281/501b49f1-39ff-437b-bf21-a3f13c027ffd)
 
 
