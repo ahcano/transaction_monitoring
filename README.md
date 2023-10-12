@@ -23,7 +23,7 @@ This project applies SQL to analyze historic credit card transactions and consum
 *[Credit Card Fraudster by Richard Patterson](https://www.flickr.com/photos/136770128@N07/42252105582/) | [Creative Commons Licensed](https://creativecommons.org/licenses/by/2.0/)*
 
 ## Usage
-The code is in Jupyter notebook san_francisco_housing.ipynb
+The code is in Jupyter notebook visual_data_analysis.ipynb
 
 ## Contributors
 Ana Cano - Author ana.cano@utoronto.ca
