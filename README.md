@@ -6,6 +6,11 @@ This project applies SQL to analyze historic credit card transactions and consum
 ![credit_card_fraudster](https://github.com/ahcano/transaction_monitoring/assets/141194281/67f2f5ef-2180-473f-83b7-950df9937994)
 
 ## Analysis
+
+### Database Relationship Diagram
+![DB_ERD](https://github.com/ahcano/transaction_monitoring/assets/141194281/f1fdcf5a-bb7e-4060-a09e-5ead98d557d1)
+
+
 ### The following line plot shows the transaction patterns of a user identified as "User ID 2". 
 ![User 2 transactions ](https://github.com/ahcano/transaction_monitoring/assets/141194281/e68bd715-c649-4036-a834-e0fe0e1f3bf7)
 
